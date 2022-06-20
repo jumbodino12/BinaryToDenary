@@ -1,0 +1,14 @@
+E:\c stuff\game\BinaryToDen\BinaryToDen\bin\Debug\netcoreapp3.1\BinaryToDen.exe
+E:\c stuff\game\BinaryToDen\BinaryToDen\bin\Debug\netcoreapp3.1\BinaryToDen.deps.json
+E:\c stuff\game\BinaryToDen\BinaryToDen\bin\Debug\netcoreapp3.1\BinaryToDen.runtimeconfig.json
+E:\c stuff\game\BinaryToDen\BinaryToDen\bin\Debug\netcoreapp3.1\BinaryToDen.runtimeconfig.dev.json
+E:\c stuff\game\BinaryToDen\BinaryToDen\bin\Debug\netcoreapp3.1\BinaryToDen.dll
+E:\c stuff\game\BinaryToDen\BinaryToDen\bin\Debug\netcoreapp3.1\BinaryToDen.pdb
+E:\c stuff\game\BinaryToDen\BinaryToDen\obj\Debug\netcoreapp3.1\BinaryToDen.csproj.AssemblyReference.cache
+E:\c stuff\game\BinaryToDen\BinaryToDen\obj\Debug\netcoreapp3.1\BinaryToDen.GeneratedMSBuildEditorConfig.editorconfig
+E:\c stuff\game\BinaryToDen\BinaryToDen\obj\Debug\netcoreapp3.1\BinaryToDen.AssemblyInfoInputs.cache
+E:\c stuff\game\BinaryToDen\BinaryToDen\obj\Debug\netcoreapp3.1\BinaryToDen.AssemblyInfo.cs
+E:\c stuff\game\BinaryToDen\BinaryToDen\obj\Debug\netcoreapp3.1\BinaryToDen.csproj.CoreCompileInputs.cache
+E:\c stuff\game\BinaryToDen\BinaryToDen\obj\Debug\netcoreapp3.1\BinaryToDen.dll
+E:\c stuff\game\BinaryToDen\BinaryToDen\obj\Debug\netcoreapp3.1\BinaryToDen.pdb
+E:\c stuff\game\BinaryToDen\BinaryToDen\obj\Debug\netcoreapp3.1\BinaryToDen.genruntimeconfig.cache
